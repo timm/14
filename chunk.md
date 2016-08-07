@@ -1,5 +1,7 @@
 #   CHUNK: near-linear time recursive clustering.
 
+[Download source code here.](chunk.py)
+
 Copyright (c) 2014, Tim Menzies, tim.menzies@gmail.com
 All rights reserved.
 
